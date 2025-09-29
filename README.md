@@ -9,7 +9,7 @@ A comprehensive, production-ready template for building scalable web APIs using 
 ├── Application/     # 🎯 Use cases and business rules  
 ├── Infrastructure/  # 🔧 Data access and external services
 ├── Presentation/    # 🌐 API controllers and endpoints
-└── docs/           # 📚 Comprehensive documentation
+└── docs/            # 📚 Comprehensive documentation
 ```
 
 ## 🚀 Quick Start
